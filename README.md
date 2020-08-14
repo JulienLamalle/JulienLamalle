@@ -13,3 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julienlamalle&show_icons=true" alt="julienlamalle" /></p>
 
+<img align="center" src="https://camo.githubusercontent.com/ca68987e945213d3b611213367439f29fdbb2f73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a756c69656e6c616d616c6c652673686f775f69636f6e733d74727565" alt="julienlamalle" data-canonical-src="https://github-readme-stats.vercel.app/api?username=julienlamalle&amp;show_icons=true" style="max-width:100%; display: flex; justify-content: center;">
