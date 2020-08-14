@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Julien</h1>
 <h3 align="center">a French web developer who is passionate about what he does</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=julienlamalle" alt="julienlamalle" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=julienlamalle" alt="julienlamalle" /> </p>
 
 - 💬 Ask me about **Rails**
 
