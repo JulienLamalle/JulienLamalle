@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Julien</h1>
-<h3 align="center">a French web developer who is passionate about what he does</h3>
+<h3 align="center">A French web developer who is passionate about what he does</h3>
 
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/github/followers/JulienLamalle.svg?style=social&label=Follow&maxAge=2592000"><img src="https://img.shields.io/github/followers/JulienLamalle.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub followers" data-canonical-src="https://github.com/JulienLamalle?tab=followers" style="max-width:100%;"></a>
   
