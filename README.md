@@ -7,7 +7,7 @@
   
   
 
-- 💬 Ask me about **Rails**
+- 💬 Ask me about **Rails, ReactJS**
 
 - 📫 How to reach me **Julienlamalle63100@gmail.com**
 
@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://github.com/JulienLamalle">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienlamalle&layout=compact&hide=html" alt="julienlamalle" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api? ; theme=vue&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%; ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julienlamalle&show_icons=true" alt="julienlamalle" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/;theme=vue&amp;layout=compact&amp;exclude_lang=java+r" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julienlamalle&show_icons=true" alt="julienlamalle" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/;theme=vue&amp;layout=compact&amp;exclude_lang=shell" style="max-width:100%;">
   </a>
 </p>
   
