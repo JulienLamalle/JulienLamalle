@@ -38,11 +38,12 @@
 
 <p align="center">
   <a href="https://github.com/JulienLamalle">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienlamalle&layout=compact&hide=html" alt="julienlamalle" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api? ; theme=vue&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%; ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julienlamalle&show_icons=true" alt="julienlamalle" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/;theme=vue&amp;layout=compact&amp;exclude_lang=shell" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienLamalle&hide=html,CoffeeScript&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="julienlamalle" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?theme=react&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%; ">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulienLamalle&show_icons=true&theme=react&hide_border=true" alt="julienlamalle" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?theme=react&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%; ">
   </a>
 </p>
+
   
-  <p>&nbsp;<img align="right" src="https://img.shields.io/badge/Made%20with%20-%E2%9D%A4%EF%B8%8F%20-red" alt="julienlamalle" />
-  <img src="https://komarev.com/ghpvc/?username=julienlamalle" alt="julienlamalle" /> </p>
+ <p>&nbsp;<img align="right" src="https://img.shields.io/badge/Made%20with%20-%E2%9D%A4%EF%B8%8F%20-red" alt="julienlamalle" />
+ <img src="https://komarev.com/ghpvc/?username=julienlamalle" alt="julienlamalle" /> </p>
 
