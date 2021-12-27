@@ -1,5 +1,6 @@
-
-
+<div align="center">
+ <img height="180em" src="https://media-exp1.licdn.com/dms/image/C4D16AQEowppFag2RIg/profile-displaybackgroundimage-shrink_200_800/0/1640642702883?e=1646265600&v=beta&t=4An2Yxze9jJDSOF-T52vwEindN4cnRxYRZFlDsTXUVc&hide_border=true" alt="julienlamalle banner" style="max-width:100%;">
+</div>
 <h1 align="center">Hi, I'm Julien 👋 </h1>
 <h3 align="center">A French web developer who is passionate about what he does</h3>
 
